@@ -1,5 +1,4 @@
 #include "sort.h"
-#include <stdbool.h>
 
 /**
  * swap_ints - swap 2 integers in an array
